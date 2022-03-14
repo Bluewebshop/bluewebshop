@@ -1,4 +1,10 @@
-### Bluewebshop LLC website 👋
+# Bluewebshop LLC website 🌱
+
+Some description
+
+## 🔭 I’m currently working on ...
+
+
 
 <!--
 **Bluewebshop/bluewebshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
